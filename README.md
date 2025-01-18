@@ -1,10 +1,10 @@
-## RhythmMaster
+# RhythmMaster
 
-# Overview
+## Overview
 
 This is a rhythm game built using Python and the Pygame library. The goal of the game is to hit the correct keys in sync with the music as notes fall on the screen. The game features custom tracks, dynamic visuals, and score tracking.
 
-# Features
+## Features
 
 Dynamic Gameplay: Visual and audio cues to keep the rhythm.
 
@@ -12,7 +12,7 @@ Score Tracking: Real-time feedback on accuracy and a final score.
 
 User-Friendly Interface: Simple controls and visually appealing design.
 
-# Prerequisites
+## Prerequisites
 
 Ensure you have the following installed:
 
@@ -20,7 +20,7 @@ Python 3.8 or later
 
 Pygame library (install using pip install pygame)
 
-# Controls
+## Controls
 
 Use arrow keys to hit the notes.
 
